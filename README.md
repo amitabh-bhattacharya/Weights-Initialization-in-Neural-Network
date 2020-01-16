@@ -6,7 +6,7 @@ How do you choose the initialization for a new neural network? In this assignmen
 
 A well chosen initialization can:
 
-. Speed up the convergence of gradient descent
+. Speed up the convergence of gradient descent.
 . Increase the odds of gradient descent converging to a lower training (and generalization) error.
 
 The initialization methods we will experiment with are:
