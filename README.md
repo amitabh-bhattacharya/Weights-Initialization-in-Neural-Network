@@ -12,3 +12,11 @@ The initialization methods we will experiment with are:
   •	Zeros initialization
   •	Random initialization
   •	"He" initialization
+
+### Points to remember that we learned in the exercise:
+
+  . Different initializations lead to different results.
+  . Random initialization is used to break symmetry and make sure different hidden units can learn different things.
+  . We shouldn't intialize to values that are too large.
+  . "He" initialization works well for networks with ReLU activations.
+  
