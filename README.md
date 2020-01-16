@@ -11,4 +11,4 @@ A well-chosen initialization can:
 The initialization methods we will experiment with are:
   •	Zeros initialization
   •	Random initialization
-  •	He initialization
+  •	"He" initialization
